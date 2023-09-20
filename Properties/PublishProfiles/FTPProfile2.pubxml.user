@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAX2rs5PFCzEeSdxb3CaMIHgAAAAACAAAAAAADZgAAwAAAABAAAAAXOAGRfJikAY+LSTxW2AGnAAAAAASAAACgAAAAEAAAABvNhydwh4wXhtlGYOGXz80gAAAAYQS6Va2ZwbeApy5vWnn7Crro4xXvKvqe3pRMc5vol7IUAAAAt80GzXOPfgBlQW+S5z/rnWAHjX0=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.learnprogramming.somee.com</_PublishTargetUrl>
+    <History>True|2023-09-19T21:13:14.8155807Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/19/2023 09:25:29</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/19/2023 10:18:38</publishTime>
+    </File>
+    <File Include="learnprogramming.deps.json">
+      <publishTime>09/19/2023 15:12:40</publishTime>
+    </File>
+    <File Include="learnprogramming.dll">
+      <publishTime>09/19/2023 15:12:39</publishTime>
+    </File>
+    <File Include="learnprogramming.exe">
+      <publishTime>09/19/2023 15:12:39</publishTime>
+    </File>
+    <File Include="learnprogramming.pdb">
+      <publishTime>09/19/2023 15:12:39</publishTime>
+    </File>
+    <File Include="learnprogramming.runtimeconfig.json">
+      <publishTime>09/19/2023 14:14:15</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>08/25/2023 00:42:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>09/10/2023 22:07:28</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>09/10/2023 21:44:46</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>09/10/2023 21:47:22</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>03/30/2021 13:46:46</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>03/30/2021 13:58:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>09/10/2023 21:53:30</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 14:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 06:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 06:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 06:54:30</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>09/10/2023 21:43:00</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/19/2023 15:12:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
